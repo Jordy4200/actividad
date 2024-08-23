@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "nombre": "Pan",
+      "imagen": "imagenes/pan.jpg",
+      "info": "Pancito recien horneado",
+      "price": "2,99"
+
+    },
+    {
+      "id": 2,
+      "nombre": "Lechuga",
+      "imagen": "imagenes/lechuga.jpeg",
+      "info": "La lechuga  es  muy bueno para ensaladas y frescas",
+      "price": "2,99"
+      
+    },    
+    {
+      "id": 3,
+      "nombre": "Pera",
+      "imagen": "imagenes/pera.jpeg",
+      "info": "La pera es muy saludable para la salud",
+      "price": "2,99"
+    },
+    {
+      "id": 4,
+      "nombre": "Yogurth",
+      "imagen": "imagenes/yogurh.jpeg",
+      "info": "Hecha por la mejor leche del  mundo",
+      "price": "2,99"
+    },
+    {
+      "id": 5,
+      "nombre": "Aguacate",
+      "imagen": "imagenes/aguacate.jpeg",
+      "info": "Bien fertilizado y abundante pulpa",
+      "price": "2,99"
+    },
+    {
+      "id": 6,
+      "nombre": "Piña",
+      "imagen": "imagenes/pina.jpeg",
+      "info": "Rica piña jugosa",
+      "price": "2,99"
+    }
+]
